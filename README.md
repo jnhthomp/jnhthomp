@@ -1,4 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Jonah</h1>
+<a href="https://jtdev.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?id=19ZZ2aDajCwqqMiawXZRcjEKScT1z5657" alt="JTDEV" width="100%" height="auto"/> </a>
 <h3 align="center">I love solving problems and optimizing processes</h3>
 
 - 🔭 I’m currently working on **creating great online user experiences**
