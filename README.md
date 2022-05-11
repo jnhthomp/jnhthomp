@@ -1,39 +1,36 @@
-## Hello there 👋, I'm Jonah Thompson a full stack engineer that loves learning about new technologies.
+<h1 align="center">Hello there 👋, I'm Jonah</h1>
+<h3 align="center">I love solving problems and optimizing processes</h3>
 
-<!--
-**jnhthomp/jnhthomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **creating great online user experiences**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **how to build React.js and Node applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... My main focus is currently React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
-## Currently working on: 
-Building my portfolio and finding the right job for me
-## Currently Learning:
-How to build modern and responsive React applications to solve business problems
-## Ask me about:
-How I can help you or your business by creating or helping to expand your current website functionalities
-## Technologies I use:
-![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
-![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
-![Ruby](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=CC0000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-![Metabase](https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=)
-![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+- 👯 I’m looking to collaborate on **building tools to make creating easier**
+
+- 👨‍💻 All of my projects are available at [https://jtdev.netlify.app/](https://jtdev.netlify.app/)
+
+- 📫 How to reach me **jnh.thompson@gmail.com**
+
+- 📄 My experience/resume [https://jtdev.netlify.app/images/JonahThompsonResume.pdf](https://jtdev.netlify.app/images/JonahThompsonResume.pdf)
+
+- ⚡ In my free time I love to **rock climb!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonah-thompson-91b74821a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonah-thompson-91b74821a/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" alt="Windows OS" width="auto" height="25"/></a>
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=" alt="MacOS" width="auto" height="25"/></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=" alt="Ubuntu" width="auto" height="25"/></a>
+  <a href="https://www.metabase.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=" alt="Metabase" width="auto" height="25"/></a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=" alt="MacOS" width="auto" height="25"/></a>
+ </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnhthomp&show_icons=true&theme=dark&locale=en&layout=compact" alt="jnhthomp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnhthomp&show_icons=true&theme=dark&locale=en" alt="jnhthomp" /></p>
