@@ -346,6 +346,6 @@
     </div>
 
 <!-- github language stats -->
-<p><img align="left" height="200px"src="https://github-readme-stats.vercel.app/api/top-langs?username=jnhthomp&show_icons=true&theme=dark&locale=en&layout=compact" alt="jnhthomp" /></p>
+<p><img align="left" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs?username=jnhthomp&show_icons=true&theme=dark&locale=en&layout=compact" alt="jnhthomp" /></p>
 <!-- Github repo/commit stats -->
-<p>&nbsp;<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=jnhthomp&show_icons=true&theme=dark&locale=en" alt="jnhthomp" /></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jnhthomp&show_icons=true&theme=dark&locale=en" alt="jnhthomp" /></p>
