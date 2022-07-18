@@ -84,8 +84,8 @@
               <!-- Project details container -->
               <div align="center">
                 <!-- Project preview gif -->
-                <a href="https://drive.google.com/uc?id=1nQ9bFzzWO1Iuq6pjtcWAZR-Y5H_3rIxw" target="_blank" rel="noreferrer"> 
-                  <img src="https://drive.google.com/uc?id=1nQ9bFzzWO1Iuq6pjtcWAZR-Y5H_3rIxw" alt="Time Trial Application demo gif" width="90%" height="auto" /> 
+                <a href="https://jtdev-asset-server.herokuapp.com/TimeTrial/gifs/TimeTrialSq.gif" target="_blank" rel="noreferrer"> 
+                  <img src="https://jtdev-asset-server.herokuapp.com/TimeTrial/gifs/TimeTrialSq.gif" alt="Time Trial Application demo gif" width="90%" height="auto" /> 
                 </a> 
                 <br>
                 <br>
@@ -145,8 +145,8 @@
             <!-- Project details container -->
             <div align="center">
               <!-- Project preview gif -->
-              <a href="https://github.com/jnhthomp/f1-discord-bot" target="_blank" rel="noreferrer">
-                <img src="https://drive.google.com/uc?id=1zcfI4eSi-x1Osif5Ic1FCKQuhpV1NLwE" alt="F1 Discord Bot demo gif" width="90%" height="auto" />
+              <a href="https://jtdev-asset-server.herokuapp.com/F1DiscordBot/gifs/F1DiscordBotSq.gif" target="_blank" rel="noreferrer">
+                <img src="https://jtdev-asset-server.herokuapp.com/F1DiscordBot/gifs/F1DiscordBotSq.gif" alt="F1 Discord Bot demo gif" width="90%" height="auto" />
               </a>
               <br>
               <br>
@@ -195,8 +195,8 @@
               <!-- Project details container -->
               <div align="center">
                 <!-- Project preview gif -->
-                <a href="https://drive.google.com/uc?id=1wj_2J5nBtVIsl287iwUp_Cvz8VYSZI_r" target="_blank" rel="noreferrer"> 
-                  <img src="https://drive.google.com/uc?id=1wj_2J5nBtVIsl287iwUp_Cvz8VYSZI_r" alt="Food Order Application demo gif" width="90%" height="auto" /> 
+                <a href="https://jtdev-asset-server.herokuapp.com/FoodOrderApp/gifs/FoodOrderAppSq.gif" target="_blank" rel="noreferrer"> 
+                  <img src="https://jtdev-asset-server.herokuapp.com/FoodOrderApp/gifs/FoodOrderAppSq.gif" alt="Food Order Application demo gif" width="90%" height="auto" /> 
                 </a> 
                 <br>
                 <br>
@@ -254,8 +254,8 @@
             <div align="center">
               <!-- Project preview gif -->
               <!-- Preview gif -->
-              <a href="https://drive.google.com/uc?id=1PHfkQCdJI2yO1VwA5KFaKevlQqf2jGAY" target="_blank" rel="noreferrer"> 
-                <img src="https://drive.google.com/uc?id=1PHfkQCdJI2yO1VwA5KFaKevlQqf2jGAY" alt="Alpha Blog demo gif" width="100%" height="auto" /> 
+              <a href="https://jtdev-asset-server.herokuapp.com/AlphaBlog/gifs/AlphaBlogSq.gif" target="_blank" rel="noreferrer"> 
+                <img src="https://jtdev-asset-server.herokuapp.com/AlphaBlog/gifs/AlphaBlogSq.gif" alt="Alpha Blog demo gif" width="95%" height="auto" /> 
               </a> 
               <br>
               <br>
@@ -301,8 +301,8 @@
             <div align="center">
               <!-- Project preview gif -->
               <!-- Preview gif -->
-              <a href="https://jtdev.netlify.app/" target="_blank" rel="noreferrer"> 
-                <img src="https://drive.google.com/uc?id=1C4T0pBktkNBrIcDujDKFfEvV_sSxNXkz" alt="Stalks demo gif" width="100%" height="auto" /> 
+              <a href="https://jtdev-asset-server.herokuapp.com/Stalks/gifs/StalksSq.gif" target="_blank" rel="noreferrer"> 
+                <img src="https://jtdev-asset-server.herokuapp.com/Stalks/gifs/StalksSq.gif" alt="Stalks demo gif" width="95%" height="auto" /> 
               </a> 
               <br>
               <br>
