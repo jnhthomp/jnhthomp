@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jnh.thompson@gmail.com**
 
-- 📄 My experience/resume [https://jtdev.netlify.app/images/JonahThompsonResume.pdf](https://jtdev.netlify.app/images/JonahThompsonResume.pdf)
+- 📄 My experience/resume [https://jtdev-asset-server.herokuapp.com/assets/docs/JonahThompsonResume.pdf](https://jtdev-asset-server.herokuapp.com/assets/docs/JonahThompsonResume.pdf)
 
 - ⚡ In my free time I love to **rock climb and program tools for me and my friends!**
 
