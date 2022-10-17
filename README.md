@@ -85,7 +85,7 @@
             <div align="center">
               <!-- Project preview gif -->
               <a href="https://jtdev-asset-server.herokuapp.com/Portfolio/gifs/PortfolioSq.gif" target="_blank" rel="noreferrer"> 
-                <img src="https://jtdev-asset-server.herokuapp.com/Portfolio/gifs/PortfolioSq.gif" alt="React Component Library demo gif" width="90%" height="auto" /> 
+                <img src="https://jtdev-asset-server.herokuapp.com/Portfolio/gifs/PortfolioSq.gif" alt="My portfolio demo gif" width="90%" height="auto" /> 
               </a> 
               <br>
               <br>
@@ -128,7 +128,7 @@
             <div align="center">
               <!-- Project preview gif -->
               <a href="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" target="_blank" rel="noreferrer"> 
-                <img src="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" alt="My portfolio demo gif" width="90%" height="auto" /> 
+                <img src="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" alt=" React component library demo gif" width="90%" height="auto" /> 
               </a> 
               <br>
               <br>
