@@ -78,7 +78,56 @@
         <!-- First row -->
         <tr>
           <!-- Project Item -->
-          <td colspan=2width>
+          <td width="50%">
+            <!-- Project Title -->
+            <h3 align="center">React Component Library 📚</h2>
+              <!-- Project details container -->
+              <div align="center">
+                <!-- Project preview gif -->
+                <a href="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" target="_blank" rel="noreferrer"> 
+                  <img src="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" alt="React Component Library demo gif" width="90%" height="auto" /> 
+                </a> 
+                <br>
+                <br>
+                <!-- Links to project -->
+                <p>
+                  <!-- Github Link -->
+                  <a href="https://github.com/jnhthomp/jtdev-react-components" target="_blank">
+                    <img src="https://img.shields.io/badge/Code-red?style=for-the-badge&logo=github" />
+                  </a>
+                  <!-- Hosted project link -->
+                  <a href="https://jtdev-react-components.netlify.app/" target="_blank">
+                    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=teal" />
+                  </a>
+                </p>
+                <!-- Project Technologies -->
+                <p>
+                  <!--JavaScript =>-->
+                  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+                  </a> 
+                  <!-- React -->
+                  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+                  </a>
+                  <!-- Node.js =>-->
+                  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+                  </a>
+                  <!-- NPM -->
+                  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
+                  </a>
+                </p>
+                <!-- Project description -->
+                <p>
+                  A library of React of highly customizable and responsive React components this project is currently in the process of being converted into an node module which will be available for installation on NPM.
+                </p>
+                <!-- End project content -->
+              </div>
+              <!-- End Project -->
+              <!-- Project Item -->
+          <td width="50%">
             <!-- Project Title -->
             <h3 align="center">Time Trials 🏁</h2>
               <!-- Project details container -->
@@ -156,10 +205,6 @@
                 <a href="https://github.com/jnhthomp/f1-discord-bot" target="_blank">
                   <img src="https://img.shields.io/badge/Code-red?style=for-the-badge&logo=github" alt="Github Link"/>
                 </a>
-                <!-- Hosted project link
-                <a href="" target="_blank">
-                  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=teal" />
-                </a> -->
               </p>
               <!-- Project Technologies -->
               <p>
@@ -182,7 +227,7 @@
               </p>
               <!-- Project description -->
               <p>
-                This is a Discord bot created using `Discord.js`. You can install the bot to a server or local machine and provide a config.json file with the appropriate information to run your own instance of the bot in discord servers you own/admin. Many commands are run by utilizing the <a href="http://ergast.com/mrd">Ergast F1 api</a>. Other commands incorporate the <a href="https://github.com/jnhthomp/time-trial-api-server">Time Trials App</a> to allow users to post times from different racing games and tracks to a database.
+                This is a Discord bot created using `Discord.js`. You can install the bot to a server or local machine and provide a .env to run your own instance of the bot in discord servers you own/admin. Many commands are run by utilizing the <a href="http://ergast.com/mrd">Ergast F1 api</a>. Other commands use the <a href="https://github.com/jnhthomp/time-trial-api-server">Time Trials App</a> allowing users to post times to a database.
               </p>
             <!-- End project content -->
             </div>
