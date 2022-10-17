@@ -76,57 +76,101 @@
       <!-- Projects table -->
       <table>
         <!-- First row -->
+        <tr width="100%">
+          <!-- Project Item -->
+          <td colspan="2width">
+            <!-- Project Title -->
+            <h3 align="center">My Portfolio 🎉</h2>
+            <!-- Project details container -->
+            <div align="center">
+              <!-- Project preview gif -->
+              <a href="https://jtdev-asset-server.herokuapp.com/Portfolio/gifs/PortfolioSq.gif" target="_blank" rel="noreferrer"> 
+                <img src="https://jtdev-asset-server.herokuapp.com/Portfolio/gifs/PortfolioSq.gif" alt="React Component Library demo gif" width="90%" height="auto" /> 
+              </a> 
+              <br>
+              <br>
+              <!-- Links to project -->
+              <p>
+                <!-- Github Link -->
+                <a href="https://github.com/jnhthomp/jtdev-react-components" target="_blank">
+                  <img src="https://img.shields.io/badge/Code-red?style=for-the-badge&logo=github" />
+                </a>
+                <!-- Hosted project link -->
+                <a href="https://jtdev-react-components.netlify.app/" target="_blank">
+                  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=teal" />
+                </a>
+              </p>
+              <!-- Project Technologies -->
+              <p>
+                <!--JavaScript =>-->
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+                </a> 
+                <!-- React -->
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+                </a>
+              <!-- Project description -->
+              <p>
+                My portfolio that was designed and developed by me. This is used to distribute to companies and clients to contact me, see my resume, recent projects, skills, and work history.
+              </p>
+              <!-- End project content -->
+            </div>
+            <!-- End Project -->
+          </td>
+        </tr>
         <tr>
           <!-- Project Item -->
           <td width="50%">
             <!-- Project Title -->
             <h3 align="center">React Component Library 📚</h2>
-              <!-- Project details container -->
-              <div align="center">
-                <!-- Project preview gif -->
-                <a href="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" target="_blank" rel="noreferrer"> 
-                  <img src="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" alt="React Component Library demo gif" width="90%" height="auto" /> 
+            <!-- Project details container -->
+            <div align="center">
+              <!-- Project preview gif -->
+              <a href="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" target="_blank" rel="noreferrer"> 
+                <img src="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" alt="My portfolio demo gif" width="90%" height="auto" /> 
+              </a> 
+              <br>
+              <br>
+              <!-- Links to project -->
+              <p>
+                <!-- Github Link -->
+                <a href="https://github.com/jnhthomp/Portfolio" target="_blank">
+                  <img src="https://img.shields.io/badge/Code-red?style=for-the-badge&logo=github" />
+                </a>
+                <!-- Hosted project link -->
+                <a href="https://jtdev.netlify.app/" target="_blank">
+                  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=teal" />
+                </a>
+              </p>
+              <!-- Project Technologies -->
+              <p>
+                <!--JavaScript =>-->
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
                 </a> 
-                <br>
-                <br>
-                <!-- Links to project -->
-                <p>
-                  <!-- Github Link -->
-                  <a href="https://github.com/jnhthomp/jtdev-react-components" target="_blank">
-                    <img src="https://img.shields.io/badge/Code-red?style=for-the-badge&logo=github" />
-                  </a>
-                  <!-- Hosted project link -->
-                  <a href="https://jtdev-react-components.netlify.app/" target="_blank">
-                    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=teal" />
-                  </a>
-                </p>
-                <!-- Project Technologies -->
-                <p>
-                  <!--JavaScript =>-->
-                  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-                  </a> 
-                  <!-- React -->
-                  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-                  </a>
-                  <!-- Node.js =>-->
-                  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-                  </a>
-                  <!-- NPM -->
-                  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
-                  </a>
-                </p>
-                <!-- Project description -->
-                <p>
-                  A library of React of highly customizable and responsive React components this project is currently in the process of being converted into an node module which will be available for installation on NPM.
-                </p>
-                <!-- End project content -->
-              </div>
-              <!-- End Project -->
-              <!-- Project Item -->
+                <!-- React -->
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+                </a>
+                <!-- Node.js =>-->
+                <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+                </a>
+                <!-- NPM -->
+                <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
+                </a>
+              </p>
+              <!-- Project description -->
+              <p>
+                A library of React of highly customizable and responsive React components this project is currently in the process of being converted into an node module which will be available for installation on NPM.
+              </p>
+              <!-- End project content -->
+            </div>
+            <!-- End Project -->
+          </td>
+          <!-- Project Item -->
           <td width="50%">
             <!-- Project Title -->
             <h3 align="center">Time Trials 🏁</h2>
