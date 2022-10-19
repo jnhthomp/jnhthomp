@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Jonah</h1>
-<a href="https://jtdev.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://jtdev-asset-server.herokuapp.com/assets/logos/png/logo-color.png" alt="JTDEV" width="100%" height="auto"/> </a>
+<a href="https://jtdev.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://jtdev-asset-server.web.app/assets/logos/png/logo-color.png" alt="JTDEV" width="100%" height="auto"/> </a>
 <h3 align="center">I love solving problems and optimizing processes</h3>
 
 - 🔭 I’m currently working on **creating great online user experiences**
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jnh.thompson@gmail.com**
 
-- 📄 My experience/resume [https://jtdev-asset-server.herokuapp.com/assets/docs/JonahThompsonResume.pdf](https://jtdev-asset-server.herokuapp.com/assets/docs/JonahThompsonResume.pdf)
+- 📄 My experience/resume [https://jtdev-asset-server.web.app/assets/docs/JonahThompsonResume.pdf](https://jtdev-asset-server.web.app/assets/docs/JonahThompsonResume.pdf)
 
 - ⚡ In my free time I love to **rock climb and program tools for me and my friends!**
 
@@ -84,8 +84,8 @@
             <!-- Project details container -->
             <div align="center">
               <!-- Project preview gif -->
-              <a href="https://jtdev-asset-server.herokuapp.com/Portfolio/gifs/PortfolioSq.gif" target="_blank" rel="noreferrer"> 
-                <img src="https://jtdev-asset-server.herokuapp.com/Portfolio/gifs/PortfolioSq.gif" alt="My portfolio demo gif" width="90%" height="auto" /> 
+              <a href="https://jtdev-asset-server.web.app/Portfolio/gifs/PortfolioSq.gif" target="_blank" rel="noreferrer"> 
+                <img src="https://jtdev-asset-server.web.app/Portfolio/gifs/PortfolioSq.gif" alt="My portfolio demo gif" width="90%" height="auto" /> 
               </a> 
               <br>
               <br>
@@ -127,8 +127,8 @@
             <!-- Project details container -->
             <div align="center">
               <!-- Project preview gif -->
-              <a href="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" target="_blank" rel="noreferrer"> 
-                <img src="https://jtdev-asset-server.herokuapp.com/ComponentLibrary/gifs/ComponentLibrarySq.gif" alt=" React component library demo gif" width="90%" height="auto" /> 
+              <a href="https://jtdev-asset-server.web.app/ComponentLibrary/gifs/ComponentLibrarySq.gif" target="_blank" rel="noreferrer"> 
+                <img src="https://jtdev-asset-server.web.app/ComponentLibrary/gifs/ComponentLibrarySq.gif" alt=" React component library demo gif" width="90%" height="auto" /> 
               </a> 
               <br>
               <br>
@@ -177,8 +177,8 @@
               <!-- Project details container -->
               <div align="center">
                 <!-- Project preview gif -->
-                <a href="https://jtdev-asset-server.herokuapp.com/TimeTrial/gifs/TimeTrialSq.gif" target="_blank" rel="noreferrer"> 
-                  <img src="https://jtdev-asset-server.herokuapp.com/TimeTrial/gifs/TimeTrialSq.gif" alt="Time Trial Application demo gif" width="90%" height="auto" /> 
+                <a href="https://jtdev-asset-server.web.app/TimeTrial/gifs/TimeTrialSq.gif" target="_blank" rel="noreferrer"> 
+                  <img src="https://jtdev-asset-server.web.app/TimeTrial/gifs/TimeTrialSq.gif" alt="Time Trial Application demo gif" width="90%" height="auto" /> 
                 </a> 
                 <br>
                 <br>
@@ -238,8 +238,8 @@
             <!-- Project details container -->
             <div align="center">
               <!-- Project preview gif -->
-              <a href="https://jtdev-asset-server.herokuapp.com/F1DiscordBot/gifs/F1DiscordBotSq.gif" target="_blank" rel="noreferrer">
-                <img src="https://jtdev-asset-server.herokuapp.com/F1DiscordBot/gifs/F1DiscordBotSq.gif" alt="F1 Discord Bot demo gif" width="90%" height="auto" />
+              <a href="https://jtdev-asset-server.web.app/F1DiscordBot/gifs/F1DiscordBotSq.gif" target="_blank" rel="noreferrer">
+                <img src="https://jtdev-asset-server.web.app/F1DiscordBot/gifs/F1DiscordBotSq.gif" alt="F1 Discord Bot demo gif" width="90%" height="auto" />
               </a>
               <br>
               <br>
@@ -284,8 +284,8 @@
               <!-- Project details container -->
               <div align="center">
                 <!-- Project preview gif -->
-                <a href="https://jtdev-asset-server.herokuapp.com/FoodOrderApp/gifs/FoodOrderAppSq.gif" target="_blank" rel="noreferrer"> 
-                  <img src="https://jtdev-asset-server.herokuapp.com/FoodOrderApp/gifs/FoodOrderAppSq.gif" alt="Food Order Application demo gif" width="90%" height="auto" /> 
+                <a href="https://jtdev-asset-server.web.app/FoodOrderApp/gifs/FoodOrderAppSq.gif" target="_blank" rel="noreferrer"> 
+                  <img src="https://jtdev-asset-server.web.app/FoodOrderApp/gifs/FoodOrderAppSq.gif" alt="Food Order Application demo gif" width="90%" height="auto" /> 
                 </a> 
                 <br>
                 <br>
@@ -343,8 +343,8 @@
             <div align="center">
               <!-- Project preview gif -->
               <!-- Preview gif -->
-              <a href="https://jtdev-asset-server.herokuapp.com/AlphaBlog/gifs/AlphaBlogSq.gif" target="_blank" rel="noreferrer"> 
-                <img src="https://jtdev-asset-server.herokuapp.com/AlphaBlog/gifs/AlphaBlogSq.gif" alt="Alpha Blog demo gif" width="95%" height="auto" /> 
+              <a href="https://jtdev-asset-server.web.app/AlphaBlog/gifs/AlphaBlogSq.gif" target="_blank" rel="noreferrer"> 
+                <img src="https://jtdev-asset-server.web.app/AlphaBlog/gifs/AlphaBlogSq.gif" alt="Alpha Blog demo gif" width="95%" height="auto" /> 
               </a> 
               <br>
               <br>
@@ -390,8 +390,8 @@
             <div align="center">
               <!-- Project preview gif -->
               <!-- Preview gif -->
-              <a href="https://jtdev-asset-server.herokuapp.com/Stalks/gifs/StalksSq.gif" target="_blank" rel="noreferrer"> 
-                <img src="https://jtdev-asset-server.herokuapp.com/Stalks/gifs/StalksSq.gif" alt="Stalks demo gif" width="95%" height="auto" /> 
+              <a href="https://jtdev-asset-server.web.app/Stalks/gifs/StalksSq.gif" target="_blank" rel="noreferrer"> 
+                <img src="https://jtdev-asset-server.web.app/Stalks/gifs/StalksSq.gif" alt="Stalks demo gif" width="95%" height="auto" /> 
               </a> 
               <br>
               <br>
